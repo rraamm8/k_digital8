@@ -3,7 +3,7 @@
 + pnu40226	김경훈 : 
 + pnu40231	김민재 : 
 + pnu40233	김예진 : 
-+ pnu40234	김은희 : 
++ pnu40234	김은희 : https://github.com/zladmsgml/html
 + pnu40235	김좌현 : 
 + pnu40236	김준영 : 
 + pnu40252	김준우 : 
