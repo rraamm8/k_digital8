@@ -6,7 +6,7 @@
 + pnu40234	김은희 : 
 + pnu40235	김좌현 : 
 + pnu40236	김준영 : 
-+ pnu40252	김준우 : 
++ pnu40252	김준우 : https://github.com/KIKJUNW00
 + pnu40250	김혜민 : 
 + pnu40237	류승진 : 
 + pnu40238	박래찬 : 
