@@ -20,6 +20,6 @@
 + pnu40246	정다정 : 
 + pnu40251	정원영 : 
 + pnu40253	정진욱 : 
-+ pnu40247	조은빈 : 
++ pnu40247	조은빈 : https://github.com/iambean-git
 + pnu40248	조효원 : 
 + pnu40249	천예진 : 
