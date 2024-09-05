@@ -7,7 +7,7 @@
 + pnu40235	김좌현 : 
 + pnu40236	김준영 : 
 + pnu40252	김준우 : 
-+ pnu40250	김혜민 : 
++ pnu40250	김혜민 : https://github.com/hyeminyy
 + pnu40237	류승진 : 
 + pnu40238	박래찬 : 
 + pnu40239	백진 : 
